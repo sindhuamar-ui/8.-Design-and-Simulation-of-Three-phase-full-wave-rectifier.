@@ -44,6 +44,16 @@ by going to Simulation ⇒ Start
 
 ## Simulation
 
+<img width="1759" height="584" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/33e088b2-9a24-405f-837a-354d813b75ce" />
+
 ## Output
 
+a=30 <img width="1920" height="1020" alt="Screenshot 2026-03-16 181258" src="https://github.com/user-attachments/assets/a5fb7654-5270-478b-a6e8-fb68866cd569" />
+
+a=60 <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/f7981340-ece3-42d1-95e3-7efd2c66091d" />
+
+a=90 <img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/ba1b4ad1-f9bd-4455-81f9-9407e5c04e50" />
+
+
 ## Result
+thus the Design-and-Simulation-of-Three-phase-full-wave-rectifier is verified
